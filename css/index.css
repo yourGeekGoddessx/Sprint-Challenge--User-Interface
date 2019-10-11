@@ -144,3 +144,19 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.link {
+    text-decoration: none;
+    color: grey;
+    padding: 25px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.logo {
+    padding: 10px;
+}
